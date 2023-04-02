@@ -23,7 +23,7 @@ npm install prompt-sync --save
 To play the game, run the following command:
 
 ```
-node slot-machine.js
+node project.js
 ```
 
 ## Implementation
